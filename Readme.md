@@ -1,7 +1,7 @@
 
 # Welcome to Steganography quiz
 
-This is for beginners.
+This is for beginners.  Please download each file and find the flag.
 
 ---
 
