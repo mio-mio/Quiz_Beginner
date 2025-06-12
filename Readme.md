@@ -1,6 +1,3 @@
-<a href="https://colab.research.google.com/github/mio-mio/Quiz_Beginner/blob/main/Readme.ipynb" target="_parent">
-<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
 # Welcome to Steganography quiz
 
